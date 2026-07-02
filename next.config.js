@@ -28,4 +28,4 @@ const nextConfig = {
   },
 }
 
-module.exports = nextConfig
+nano next.config.js

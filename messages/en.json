@@ -1,0 +1,167 @@
+{
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "login": "Login",
+    "getStarted": "Get Started Free"
+  },
+  "hero": {
+    "badge": "🚀 Now in Public Beta",
+    "title": "Create faceless content",
+    "titleHighlight": "faster, not harder.",
+    "description": "Generate AI scripts, realistic voiceovers, accurate subtitles, captions, dan semua kebutuhan content creator faceless dalam satu workspace.",
+    "cta": "Get Started Free",
+    "demo": "Watch Demo",
+    "stats": {
+      "creators": "10K+",
+      "creatorsLabel": "Active Creators",
+      "content": "1M+",
+      "contentLabel": "Content Generated",
+      "time": "80%",
+      "timeLabel": "Time Saved"
+    }
+  },
+  "trusted": {
+    "title": "Trusted by creators worldwide"
+  },
+  "features": {
+    "title": "Everything you need",
+    "subtitle": "Powerful AI tools designed specifically for faceless content creators",
+    "items": {
+      "script": {
+        "title": "AI Script Generator",
+        "description": "Generate engaging scripts in seconds with advanced AI that understands viral content patterns"
+      },
+      "tts": {
+        "title": "Text to Speech",
+        "description": "Ultra-realistic voiceovers with natural emotion, intonation, and perfect pacing for your content"
+      },
+      "subtitle": {
+        "title": "Subtitle Generator",
+        "description": "Auto-generate perfectly timed subtitles with high accuracy word recognition in multiple languages"
+      },
+      "caption": {
+        "title": "Caption Generator",
+        "description": "Platform-optimized captions that boost engagement and reach on every social media"
+      },
+      "history": {
+        "title": "Smart History",
+        "description": "Track, manage, and reuse all your generated content in one organized place"
+      },
+      "credits": {
+        "title": "Credit System",
+        "description": "Flexible usage-based credits that scale with your content creation needs"
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "subtitle": "From idea to publish-ready content in minutes",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Generate Script",
+        "description": "AI writes viral-worthy scripts tailored for your niche and platform"
+      },
+      {
+        "step": "02",
+        "title": "Create Voiceover",
+        "description": "Convert text to natural human-like speech with emotion and perfect pacing"
+      },
+      {
+        "step": "03",
+        "title": "Add Subtitles",
+        "description": "Auto-generate perfectly timed subtitles and platform-optimized captions"
+      },
+      {
+        "step": "04",
+        "title": "Publish",
+        "description": "Export your content and upload directly to your social media platforms"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Simple, transparent pricing",
+    "subtitle": "Start free, upgrade when you need more",
+    "plans": {
+      "free": {
+        "name": "Starter",
+        "price": "Free",
+        "description": "Perfect for trying out CreovaLab",
+        "features": [
+          "5 scripts per month",
+          "Basic TTS voices",
+          "Auto subtitles",
+          "720p export quality",
+          "Standard support"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$19",
+        "period": "/month",
+        "description": "For serious content creators",
+        "features": [
+          "Unlimited scripts",
+          "Premium AI voices",
+          "Smart captions",
+          "4K export quality",
+          "Priority support",
+          "No watermark"
+        ],
+        "popular": true
+      },
+      "business": {
+        "name": "Business",
+        "price": "$49",
+        "period": "/month",
+        "description": "For agencies & teams",
+        "features": [
+          "Everything in Pro",
+          "Team collaboration",
+          "API access",
+          "Custom voice models",
+          "Dedicated support",
+          "White label export"
+        ]
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Everything you need to know about CreovaLab",
+    "items": [
+      {
+        "q": "What is CreovaLab?",
+        "a": "CreovaLab is an AI-powered workspace designed specifically for faceless content creators. It combines all the tools you need to create professional content - from AI script generation to final video export - all in one seamless platform."
+      },
+      {
+        "q": "Is there a free plan available?",
+        "a": "Yes! Start with our free Starter plan that includes 5 scripts per month, basic TTS voices, and auto subtitles. No credit card required. Upgrade anytime when you need more."
+      },
+      {
+        "q": "Can I use this for YouTube Automation?",
+        "a": "Absolutely! CreovaLab is built for YouTube automation channels, faceless TikTok accounts, Instagram reels, Facebook reels, and any platform where you create content without showing your face."
+      },
+      {
+        "q": "How accurate are the auto-generated subtitles?",
+        "a": "Our AI subtitle generator achieves 95%+ accuracy with proper timing synchronization. It supports multiple languages and can handle various accents and speech patterns."
+      },
+      {
+        "q": "What voices are available for Text to Speech?",
+        "a": "We offer 8 premium AI voices including Female Soft, Female Natural, Female Story, Female Energetic, Male Deep, Male Natural, Male Story, and Male Documentary. Each voice can be previewed before generation."
+      },
+      {
+        "q": "Can I cancel my subscription anytime?",
+        "a": "Yes, you can cancel your subscription at any time. You'll continue to have access to your plan features until the end of your billing period. Your data will be preserved."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2024 CreovaLab. All rights reserved.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal"
+  }
+}

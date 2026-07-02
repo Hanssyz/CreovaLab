@@ -1,0 +1,167 @@
+{
+  "nav": {
+    "features": "Fitur",
+    "pricing": "Harga",
+    "faq": "FAQ",
+    "login": "Masuk",
+    "getStarted": "Mulai Gratis"
+  },
+  "hero": {
+    "badge": "🚀 Beta Publik Sekarang",
+    "title": "Buat konten faceless",
+    "titleHighlight": "lebih cepat, tanpa ribet.",
+    "description": "Generate skrip AI, voiceover realistis, subtitle akurat, caption, dan semua kebutuhan content creator faceless dalam satu workspace.",
+    "cta": "Mulai Gratis",
+    "demo": "Lihat Demo",
+    "stats": {
+      "creators": "10RB+",
+      "creatorsLabel": "Kreator Aktif",
+      "content": "1JT+",
+      "contentLabel": "Konten Dibuat",
+      "time": "80%",
+      "timeLabel": "Waktu Hemat"
+    }
+  },
+  "trusted": {
+    "title": "Dipercaya oleh kreator di seluruh dunia"
+  },
+  "features": {
+    "title": "Semua yang Anda butuhkan",
+    "subtitle": "Tools AI canggih yang didesain khusus untuk content creator faceless",
+    "items": {
+      "script": {
+        "title": "AI Script Generator",
+        "description": "Buat skrip menarik dalam hitungan detik dengan AI yang memahami pola konten viral"
+      },
+      "tts": {
+        "title": "Text to Speech",
+        "description": "Voiceover ultra-realistis dengan emosi natural, intonasi, dan pacing yang sempurna"
+      },
+      "subtitle": {
+        "title": "Subtitle Generator",
+        "description": "Auto-generate subtitle dengan timing sempurna dan akurasi tinggi dalam berbagai bahasa"
+      },
+      "caption": {
+        "title": "Caption Generator",
+        "description": "Caption yang dioptimasi untuk setiap platform, meningkatkan engagement dan jangkauan"
+      },
+      "history": {
+        "title": "Smart History",
+        "description": "Lacak, kelola, dan gunakan kembali semua konten yang sudah dibuat dalam satu tempat"
+      },
+      "credits": {
+        "title": "Sistem Kredit",
+        "description": "Kredit berbasis penggunaan yang fleksibel dan bisa disesuaikan dengan kebutuhan Anda"
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Cara kerja",
+    "subtitle": "Dari ide hingga konten siap publish dalam hitungan menit",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Generate Skrip",
+        "description": "AI menulis skrip viral yang disesuaikan dengan niche dan platform Anda"
+      },
+      {
+        "step": "02",
+        "title": "Buat Voiceover",
+        "description": "Konversi teks menjadi suara natural seperti manusia dengan emosi dan pacing sempurna"
+      },
+      {
+        "step": "03",
+        "title": "Tambah Subtitle",
+        "description": "Auto-generate subtitle dengan timing tepat dan caption yang dioptimasi untuk platform"
+      },
+      {
+        "step": "04",
+        "title": "Publish",
+        "description": "Export konten dan upload langsung ke platform media sosial Anda"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Harga simpel, transparan",
+    "subtitle": "Mulai gratis, upgrade saat butuh lebih",
+    "plans": {
+      "free": {
+        "name": "Starter",
+        "price": "Gratis",
+        "description": "Cocok untuk mencoba CreovaLab",
+        "features": [
+          "5 skrip per bulan",
+          "Suara TTS basic",
+          "Auto subtitle",
+          "Kualitas export 720p",
+          "Support standar"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "Rp 199K",
+        "period": "/bulan",
+        "description": "Untuk content creator serius",
+        "features": [
+          "Skrip unlimited",
+          "Suara AI premium",
+          "Smart captions",
+          "Kualitas export 4K",
+          "Support prioritas",
+          "Tanpa watermark"
+        ],
+        "popular": true
+      },
+      "business": {
+        "name": "Business",
+        "price": "Rp 499K",
+        "period": "/bulan",
+        "description": "Untuk agensi & tim",
+        "features": [
+          "Semua fitur Pro",
+          "Kolaborasi tim",
+          "Akses API",
+          "Model suara kustom",
+          "Support dedicated",
+          "Export white label"
+        ]
+      }
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan yang sering diajukan",
+    "subtitle": "Semua yang perlu Anda ketahui tentang CreovaLab",
+    "items": [
+      {
+        "q": "Apa itu CreovaLab?",
+        "a": "CreovaLab adalah workspace bertenaga AI yang didesain khusus untuk kreator konten faceless. Platform ini menggabungkan semua tools yang Anda butuhkan - dari pembuatan skrip AI hingga export video final - dalam satu platform yang seamless."
+      },
+      {
+        "q": "Apakah ada paket gratis?",
+        "a": "Ya! Mulai dengan paket Starter gratis yang mencakup 5 skrip per bulan, suara TTS basic, dan auto subtitle. Tidak perlu kartu kredit. Upgrade kapan saja saat Anda butuh lebih."
+      },
+      {
+        "q": "Bisa dipakai untuk YouTube Automation?",
+        "a": "Tentu! CreovaLab dibangun untuk channel YouTube automation, akun TikTok faceless, Instagram reels, Facebook reels, dan platform apapun di mana Anda membuat konten tanpa menunjukkan wajah."
+      },
+      {
+        "q": "Seberapa akurat subtitle yang di-generate?",
+        "a": "AI subtitle generator kami mencapai akurasi 95%+ dengan sinkronisasi timing yang tepat. Mendukung berbagai bahasa dan bisa menangani berbagai aksen dan pola bicara."
+      },
+      {
+        "q": "Suara apa saja yang tersedia untuk Text to Speech?",
+        "a": "Kami menyediakan 8 suara AI premium termasuk Female Soft, Female Natural, Female Story, Female Energetic, Male Deep, Male Natural, Male Story, dan Male Documentary. Setiap suara bisa dipreview sebelum digunakan."
+      },
+      {
+        "q": "Bisa cancel subscription kapan saja?",
+        "a": "Ya, Anda bisa cancel subscription kapan saja. Anda tetap bisa mengakses fitur plan sampai akhir periode billing. Data Anda akan tetap tersimpan dengan aman."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2024 CreovaLab. Hak cipta dilindungi.",
+    "product": "Produk",
+    "company": "Perusahaan",
+    "legal": "Legal"
+  }
+}
